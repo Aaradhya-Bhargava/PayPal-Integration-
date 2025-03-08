@@ -1,0 +1,10 @@
+# Created at 2024-10-21T21:37:07.973
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Intership\paypal-provider-service\paypal-provider-service-start\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
+# Created at 2024-10-21T21:37:16.922
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Intership\paypal-provider-service\paypal-provider-service-start\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

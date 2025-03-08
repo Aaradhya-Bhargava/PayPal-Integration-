@@ -1,0 +1,47 @@
+{
+  "$id": "25",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2024-10-15T17:14:02.4527779+05:30",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "SidebarExpandedItems": [
+    "Branches",
+    "Branches/feature"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": [],
+  "NeedsLargeFilesPull": false,
+  "RemoteProjectLinks": [
+    {
+      "$id": "26",
+      "BaseUrl": "https://bitbucket.org",
+      "Identifier": "myinternshipapplication11/paypal-provider-service-start",
+      "RemoteName": "origin",
+      "Type": 1,
+      "Username": "myinternshipapplication1-admin",
+      "CloneUrl": null,
+      "ProjectUrl": null,
+      "AccountId": "myinternshipapplication1-admin@bitbucket.org",
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://bitbucket.org"
+    },
+    {
+      "$id": "27",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "myinternshipapplication11/paypal-provider-service-start",
+      "RemoteName": "origin",
+      "Type": 1,
+      "Username": null,
+      "CloneUrl": "https://myinternshipapplication1-admin@bitbucket.org/myinternshipapplication11/paypal-provider-service-start.git",
+      "ProjectUrl": null,
+      "AccountId": null,
+      "AvatarUrl": null,
+      "DisplayName": "origin: https://bitbucket.org/"
+    }
+  ]
+}

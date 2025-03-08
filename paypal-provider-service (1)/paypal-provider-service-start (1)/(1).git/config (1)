@@ -1,0 +1,15 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://myinternshipapplication1-admin@bitbucket.org/myinternshipapplication11/paypal-provider-service-start.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "feature/paypal-provider-service-start"]
+	remote = origin
+	merge = refs/heads/feature/paypal-provider-service-start
